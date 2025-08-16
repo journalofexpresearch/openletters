@@ -60,24 +60,30 @@ For those nations willing to accept the temporary period of collaboration toward
 ---
 
 ## Reccommending National Actions
-1. Magnetic Field Reinforcement Feasibility Study  
-   Partner with NOAA, NASA, DoD, DOE to test a seven-station magnetic augmentation network (2.8 MW total).  
+1. New earth Day (Global holiday)
+   
+   To prevent widespread panic, and to accomplish a great deal of public education on what is to be done, a new holiday should be established that coincides with the future launch date of the artificial shield. Ideally this holiday would be in the order of New Years Eve, but should be campaigned as something even greater to which it deserves. This will also bring about the yearly celebration of the shields launch which will aid in its continuation and remind everyone of what was put in place for generations to come. Leaders may frame this as a true hope, and a celebration of our human knowledge, technology, and ability to unite in times of crisis.
 
-2. National Geomagnetic Monitoring Expansion  
-   Deploy magnetometer arrays and integrate Earthquake Prediction Model into FEMA’s early-warning systems.  
+2. Education and Participation
+   Historically whenever a structure is put into someones environment against thier will, it is eventually torn down due to a misunderstanding of its purpose and intent. The global holiday will serve a dual purpose informing everyone about the roof that is to be put above their heads, so that when auroras fill the sky one evening as it comes together, they won't be surprised.
+  Participating in the shields construction will also be key, as people will want to say they played a part in such a historic event. This can be easily accomplished by having a global aluminum can drive. This will satisfy the needs of the public to paricipate, educate a great many more, and also provide the materials for the 7 electromagnets that the stations will be using to emit the fields. This will also provide a great many celebrities, politicians, and other public figures a chance to help market and promote the shields construction, adding to the ever growing list of heros that humanity will become, fueling the excitement and celebration.
+    
+4. Magnetic Field Reinforcement Study  
+   Partnerships with NOAA, NASA, DoD, DOE to test a seven-station magnetic field prototype based on the coordinates and simulations I may provide. In the tests I have performed, my special configuration will cause all 7 magnetic fields to merge and become a stable magnetosphere. To provide the safest possible testing, it is of my solid opinion that 2 tests be carried out before launching on earth. A test on the moon, as well as a test on mars would be the most ideal. The success of both tests could potentially lead to a sort of terraforming potential. 
 
-3. Coupling Stability Research  
+5. National Geomagnetic Monitoring Expansion  
+   Deploy magnetometer arrays and integrate Earthquake Prediction Model into FEMA’s early-warning systems.  As the field weakens more there will be increased activity in terms of natural distasters as is already observable. The predictive power of this model will help keep stability in responsiveness and encourage responders as well as the public to hold on to hope stead fast while the shield is being built.
+
+6. Coupling Stability Research  
    Commission research into the gravity–magnetism interaction and its role in tectonic stability.  
 
-4. U.S. Leadership in Planetary Protection  
+7. U.S. Leadership in Planetary Protection  
    Position the United States as the leader in planetary-scale magnetic defense.  
 
 ---
 
-## Call to Action
-The stakes are existential. The technology is here. The data is real.  
+## Conclusion
 The choice is whether to act now — while we still have the stability to do so — or to face an irreversible planetary decline.  
-
 We can prevent Earth from following Mars’ fate.  
 Congress has the power to lead that mission.  
 
